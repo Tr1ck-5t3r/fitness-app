@@ -1,0 +1,33 @@
+/* Home.css */
+.home {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.jumbotron {
+  background-color: #343a40;
+  color: white;
+  padding: 2rem 1rem;
+}
+
+.jumbotron .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.jumbotron .btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+.btn-secondary {
+  margin-top: 10px;
+}

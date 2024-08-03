@@ -1,0 +1,39 @@
+/* Profile.css */
+.profile-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.profile-card {
+    margin-top: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.form-label {
+    color: #ffffff;
+}
+
+.form-control {
+    background-color: #495057;
+    color: #ffffff;
+    border-color: #6c757d;
+}
+
+.form-control:focus {
+    background-color: #495057;
+    border-color: #80bdff;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}

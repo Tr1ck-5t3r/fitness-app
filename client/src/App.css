@@ -1,0 +1,56 @@
+/* App.css */
+body {
+    background-color: #242424;
+    color: #ffffff;
+}
+
+.navbar,
+.jumbotron,
+.container {
+    background-color: #242424;
+}
+
+.card,
+.btn,
+.nav-link,
+.form-control {
+    background-color: #41464c;
+    color: #ffffff;
+    border-color: #495057;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.nav-link:hover {
+    color: #c0c0c0;
+}
+
+.jumbotron {
+    background-color: #343a40;
+}
+
+.container {
+    margin-top: 30px;
+}
